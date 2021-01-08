@@ -1,0 +1,81 @@
+*{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Maven Pro",sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.8rem;
+    color:#444;
+    padding:30px 0;
+
+}
+
+main{
+    width: 90%;
+    height: 550px;
+    margin:auto;
+    border:1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+div{
+    width:30%;
+    height:160px;
+    box-shadow: 2px 2px 5px grey;
+    border-radius:10px;
+    cursor: pointer;
+
+}
+
+.a{
+    background-image:url("images/a.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+
+.b{
+    background-image:url("images/b.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.c{
+    background-image:url("images/c.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.d{
+    background-image:url("images/d.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.e{
+    background-image:url("images/e.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.f{
+    background-image:url("images/f.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.g{
+    background-image:url("images/g.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.h{
+    background-image:url("images/h.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.i{
+    background-image:url("images/i.jpg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
